@@ -88,7 +88,7 @@ namespace Animacion
                 return 2 ;
 
 
-            else if (Level > 10 && Level < 30)
+            else if (Level >= 10 && Level < 30)
                 return 4;
             else if (Level >= 30 && Level < 50)
                 return 5 ;
