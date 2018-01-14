@@ -1,0 +1,9 @@
+C:\Users\hacker\source\repos\Animacion\Animacion\bin\Debug\Animacion.exe.config
+C:\Users\hacker\source\repos\Animacion\Animacion\bin\Debug\Animacion.exe
+C:\Users\hacker\source\repos\Animacion\Animacion\bin\Debug\Animacion.pdb
+C:\Users\hacker\source\repos\Animacion\Animacion\obj\Debug\Animacion.Form1.resources
+C:\Users\hacker\source\repos\Animacion\Animacion\obj\Debug\Animacion.Properties.Resources.resources
+C:\Users\hacker\source\repos\Animacion\Animacion\obj\Debug\Animacion.csproj.GenerateResource.Cache
+C:\Users\hacker\source\repos\Animacion\Animacion\obj\Debug\Animacion.csproj.CoreCompileInputs.cache
+C:\Users\hacker\source\repos\Animacion\Animacion\obj\Debug\Animacion.exe
+C:\Users\hacker\source\repos\Animacion\Animacion\obj\Debug\Animacion.pdb
